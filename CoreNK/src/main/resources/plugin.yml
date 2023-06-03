@@ -1,0 +1,5 @@
+name: CoreNK
+api: 1.0.0
+main: net.core.Core
+version: 1.0.0
+author: "PixelStudios Development"

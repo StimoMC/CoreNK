@@ -1,0 +1,58 @@
+#next ban can be stronger
+nextBanStronger: true
+
+#ban id's
+reasons:
+  1:
+    time: "31"
+    unit: "d"
+    reason: "Cheating"
+    type: "ban"
+  2:
+    time: "3"
+    unit: "d"
+    reason: "Teaming"
+    type: "ban"
+  3:
+    time: "3"
+    unit: "d"
+    reason: "Insults"
+    type: "mute"
+  4:
+    time: "3"
+    unit: "d"
+    reason: "Provocation"
+    type: "mute"
+  5:
+    time: "14"
+    unit: "d"
+    reason: "Sexual content"
+    type: "mute"
+  6:
+    time: "0"
+    reason: "Extreme ingame behaviour"
+    type: "ban"
+  7:
+    time: "0"
+    reason: "Extreme chat behaviour"
+    type: "mute"
+  8:
+    time: "7"
+    unit: "d"
+    reason: "Bugusing"
+    type: "ban"
+  9:
+    time: "1"
+    unit: "d"
+    reason: "Invalid skin"
+    type: "ban"
+  10:
+    time: "1"
+    unit: "d"
+    reason: "Invalid name"
+    type: "ban"
+  11:
+    time: "3"
+    unit: "d"
+    reason: "Permission abuse"
+    type: "ban"
